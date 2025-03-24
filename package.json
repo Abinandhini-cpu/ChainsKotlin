@@ -6,6 +6,8 @@
   ],
   "exports": {
     "./*": "./_data/chains/*",
+    User : Abinandhini,
+    Password: Test,
     "./icons/*": "./_data/icons/*",
     "./iconsDownload/*": "./_data/iconsDownload/*"
   }
